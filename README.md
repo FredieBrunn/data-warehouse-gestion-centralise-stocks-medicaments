@@ -1,6 +1,6 @@
 # Système de Gestion Centralisée des Stocks de Médicaments
 
-![Entrepôt de données](https://www.svgrepo.com/show/331760/database-storage.svg)
+![Entrepôt de données](./img/4084.jpg)
 
 ## Présentation du projet
 
