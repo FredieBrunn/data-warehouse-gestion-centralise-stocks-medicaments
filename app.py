@@ -1246,7 +1246,7 @@ def display_data_management(dw):
 
 def main():
     # Create sidebar for navigation
-    st.sidebar.image("./data-processing_2980479.png", width=100)
+    st.sidebar.image("./img/data-processing_2980479.png", width=100)
     st.sidebar.title("Navigation")
     
     # Session state initialization
